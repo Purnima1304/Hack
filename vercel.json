@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd mindray && npm run build",
+  "outputDirectory": "mindray/.next",
+  "installCommand": "cd mindray && npm install"
+}
